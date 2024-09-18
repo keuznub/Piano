@@ -1,8 +1,19 @@
 # Piano
-
+Web de practicas, ejercicio de clase
 ## Descripcion
 
 
+## Tecnologías
+- npm
+- vite
+- vitest
+  
+## Dependecias
+- tonejs
+- gh-pages
+
+## Deploy
+[Pulsa para ver la app](https://keuznub.github.io/Piano/)
 
 ## Comandos
 ```bash
@@ -24,13 +35,13 @@ Se podra tocar tambien con el teclado del ordenador.
   
 #### Sprint 2
 - [x] añadir teclas negras
-- [ ] permitir que el usuario toque el piano con el teclado del ordenador
+- [x] permitir que el usuario toque el piano con el teclado del ordenador
 
 #### Sprint 3
 - [x] incorporar sonidos reales
-- [ ] refactorizar
-- [ ] testear
-- [ ] deployar
+- [x] refactorizar
+- [s] testear
+- [x] deployar
   
 - codigo limpio <-- Refactorizacion
 - codigo correcto <--Test

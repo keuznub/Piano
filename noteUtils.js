@@ -16,6 +16,7 @@ const map = {
 }
 
 
+
 export default function getNoteFromKey(key){
     if(!key) return 
     return map[key.toLowerCase()]
